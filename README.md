@@ -8,10 +8,10 @@ This JavaScript-based application was built to collect and validate input for tw
 
 The project includes:
 
-- ✅ A fully working solution to the JSL01 challenge
-- 📁 Organised files including `index.html`, `styles.css`, and assets forlder
-- 🎯 Clean, semantic HTML and well-commented code for ease of understanding
-- 📐 Responsive layout and accessible design considerations
+- HTML
+- CSS
+- Javascript
+- Github
 
 ## Features created
 
