@@ -2,13 +2,7 @@
 
 ## Project description
 
-This repository provides the **official solution code for the JSL01 challenge**. It is intended to support students who have completed the challenge and need a reference for improving their work before progressing to **JSL02**.
-
-Students should use this solution to:
-
-- Review and reflect on their own implementation
-- Identify areas of improvement in their code (naming, logic, layout, responsiveness, etc.)
-- Apply corrections and best practices before continuing with the next challenge in the series
+This JavaScript-based application was built to collect and validate input for two user-defined tasks. It guides users through entering task titles, descriptions, and statuses, enforcing proper formatting and acceptable values. The final implementation ensures reliable data handling while maintaining a clean, readable codebase.
 
 ## Technologies used
 
@@ -23,7 +17,7 @@ The project includes:
 
 The project includes:
 
-## How to Use This Solution
+## How to Use This Project
 
 1. **Compare** your original solution to the files in this repository.
 2. **Make notes** of differences, especially where your solution didn’t work or used less efficient logic.
