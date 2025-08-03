@@ -21,7 +21,7 @@ while (true) {
 
   // Loop conditions
   if (statusLower === "done") {
-    console.log("Task 1 status: done");
+    console.log("Title: Task 1 Status: done");
     break;
   } else if (statusLower === "todo" || statusLower === "doing") {
     console.log("No tasks completed, let's get to work!");
@@ -54,7 +54,7 @@ while (true) {
 
   //Loop conditions
   if (statusLower === "done") {
-    console.log("Task 2 status: done");
+    console.log("Title: Task 2 Status: done");
     break;
   } else if (statusLower === "todo" || statusLower === "doing") {
     console.log("No tasks completed, let's get to work!");
