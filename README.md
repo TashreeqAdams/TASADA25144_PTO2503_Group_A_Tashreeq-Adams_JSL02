@@ -1,4 +1,4 @@
-# JSL02 Challenge - Tash Input and Status Validation System
+# JSL02 Challenge - Input and Status Validation System
 
 ## Project description
 
